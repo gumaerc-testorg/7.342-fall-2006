@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: beb89046-3212-d27e-e3d6-77efef8719d7
 ---
@@ -56,7 +59,7 @@ Zwaka, T. P. "[Breathing Chromatin in Pluripotent Stem Cells](http://www.cell.co
 
 [Supplemental Data](http://www.developmentalcell.com/cgi/content/full/10/1/105/DC1/) for Meshorer, et al. _Developmental Cell_ 10: 105-116.
 
-Kirschner, M. "In Memory of Harold Weintraub." _Molecular Biology of the Cell_ 6, no. 7 (1995): 757-758. ([PDF](http://www.pubmedcentral.nih.gov/picrender.fcgi?artinstid=301238&blobtype=pdf))#
+Kirschner, M. "In Memory of Harold Weintraub." _Molecular Biology of the Cell_ 6, no. 7 (1995): 757-758. ([PDF](http://www.pubmedcentral.nih.gov/picrender.fcgi?artinstid=301238&blobtype=pdf)){{< sup "#" >}}
 
 Axel, Richard, and Tom Maniatis. "[Harold Weintraub (1945-1995).](http://dx.doi.org/10.1016/0092-8674(95)90382-8)" _Cell_ 81, no. 3 (1995): 317-318. 
 
