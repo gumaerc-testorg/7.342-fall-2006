@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f197aad8-5be6-f1a6-0ad7-3cd3094bc851
 resourcetype: Document
 title: Guidelines for Presentations
 uid: 9b75fd6e-e7cb-c9f1-7a77-a3d776ba9d4d
