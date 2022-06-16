@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on course requirements and guidelines
+  for student presentations.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -14,7 +16,7 @@ Course Requirements
 2.  Based on the material covered in class, write a 2-page project proposal. This proposal will outline experiments to address a frontier problem in the field.
 3.  Oral presentation. Students will present 2 page research proposals (above) to the class. Each will be a 10-15 min slideshow presentation describing background, experiments and expected results.
 
-Guidelines for Presentations ([PDF]({{< baseurl >}}/resources/proposal_guide))
+Guidelines for Presentations ({{% resource_link 9b75fd6e-e7cb-c9f1-7a77-a3d776ba9d4d "PDF" %}})
 ------------------------------------------------------------------------------
 
 *   ~8 Slides Total
